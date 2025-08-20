@@ -20,19 +20,19 @@ Super Mario Dungeons is a Android based mobile game application that allows user
 ## Screenshots
 
 ### 🏠 Home Screen
-![Welcome Screen](screenshots/welcomescreen.png)
+![Welcome Screen](images/welcomescreen.png)
 
-### 🎙️ Player Select Screen
-![Player Select Scren](screenshots/playerscreen.png)
+### 🏃 Player Select Screen
+![Player Select Scren](images/playerscreen.png)
 
-### 🗓️ Maze 1
-![Maze 1](screenshots/maze1.png)
+### 🏰 Maze 1
+![Maze 1](images/maze1.png)
 
-### 🗓️ Maze 2
-![Maze 2](screenshots/maze2.png)
+### 🏰 Maze 2
+![Maze 2](images/maze2.png)
 
-### 🗓️ Maze 3
-![Maze 3](screenshots/maze3.png)
+### 🏰 Maze 3
+![Maze 3](images/maze3.png)
 
 ---
 
