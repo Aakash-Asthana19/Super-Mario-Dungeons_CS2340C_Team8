@@ -37,5 +37,5 @@ Super Mario Dungeons is a Android based mobile game application that allows user
 ---
 
 ## Video Demo
-[![Watch Demo](screenshots/video.png)](https://drive.google.com/drive/folders/1_m2-2hDuRp-6ouT8JDdusDp_0CgRZDtw?dmr=1&ec=wgc-drive-globalnav-goto)
+[![Watch Demo](images/video.png)](https://drive.google.com/drive/folders/1_m2-2hDuRp-6ouT8JDdusDp_0CgRZDtw?dmr=1&ec=wgc-drive-globalnav-goto)
 ---
